@@ -12,10 +12,12 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Keysoz</h1>
-<span>Thanks to </span>
+<span>I Have </span>
 
 [![](https://visitcount.itsvg.in/api?id=Keysoz&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<h1 align="center">Hi 👋, I'm Keysoz</h1>
+
 
 
 ###
