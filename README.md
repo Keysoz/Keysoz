@@ -22,19 +22,19 @@
 
 ###
 
-<h3 align="left">💫 About Me:</h3>
+<h3 align="center">💫 About Me:</h3>
 
 ###
 
-<p align="left">I'm a passionate and driven student specializing in penetration testing and ethical hacking.<br>My journey into cybersecurity began with a fascination for technology and<br>a desire to understand how systems can be secured against digital threats.</p>
+<p align="center">I'm a passionate and driven student specializing in penetration testing and ethical hacking.<br>My journey into cybersecurity began with a fascination for technology and<br>a desire to understand how systems can be secured against digital threats.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
