@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  [![](https://visitcount.itsvg.in/api?id=Keysoz&icon=0&color=1)](https://visitcount.itsvg.in)
 </div>
 
 ###
@@ -53,9 +54,8 @@
 <h3 align="left">🔥   Github Stats :</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Keysoz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Keysoz&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keysoz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keysoz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Keysoz&theme=tokyonight&hide_border=false)
 
-[![](https://visitcount.itsvg.in/api?id=Keysoz&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ###
