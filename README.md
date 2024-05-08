@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=Keysoz&icon=0&color=1)](https://visitcount.itsvg.in)
 ###
 
 <h1 align="center">Hi 👋, I'm Keysoz</h1>
@@ -53,8 +54,8 @@
 <h3 align="left">🔥   Github Stats :</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Keysoz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Keysoz&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keysoz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Keysoz&theme=tokyonight&hide_border=false)
-[![](https://visitcount.itsvg.in/api?id=Keysoz&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 ###
