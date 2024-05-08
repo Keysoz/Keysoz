@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">💫 About Me</h3>
+<br><h3 align="left">💫 About Me</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<br><br><h3 align="left">🛠 Language and tools</h3><br>
 
 ###
 
@@ -56,9 +56,9 @@
 
 ###
 
-<h3 align="left">🔥   Github Stats</h3>
+<br><br><h3 align="left">🔥   Github Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=Keysoz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keysoz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Keysoz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 ###
