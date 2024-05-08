@@ -52,4 +52,9 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keysoz&show_icons=true&locale=en&layout=compact" alt="keysoz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keysoz&show_icons=true&locale=en" alt="keysoz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keysoz&" alt="keysoz" /></p>
 ###
